@@ -21,7 +21,11 @@
 title: James Nelson's Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Deaf programmer's blog that is an LR, CS, & CE Major.
+  Deaf programmer's blog that is an LR, CS, & CE
+  Major. I enjoy camping, cooking, reading, cats,
+  I want to reinvent technology for disabled people,
+  and reinvent technology to help people like you.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamespc.tech/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
