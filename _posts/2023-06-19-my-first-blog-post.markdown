@@ -12,4 +12,4 @@ I started playing with it around 6/7 years old and played DOOM on a Windows 95. 
 
 I got even more curious and stumbled upon Linux. Did not really understand how to manipulate Linux when it was at the very early ages of its development and the first distro was SUSE.
 
-Anyway, that is a little bit of my history. These days I am certified in PC with Windows, Unix/Unix-like OS, certified network technician, and certified Programmer Specialist. My interests are learning OS kernels, embedded systems, and understanding networking devices.
+Anyway, that is a little bit of my history. These days I am certified in PC with Windows, certified Unix/Unix-like OS Administration, certified Network Technician, and certified Programmer Specialist. My interests are learning OS kernels, embedded systems, and understanding networking devices.
