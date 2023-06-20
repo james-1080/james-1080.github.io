@@ -22,17 +22,17 @@ categories: resume
 
 ---
 
-- ***Personal Computer Consultant (2014-2019)*** I help people with their computer issues, diagnose, troubleshoot, repair issues, and upgrade computer
-  components. I make sure my customers are satisfied, documented their system issues and resolved conflicts, and did bookkeeping of my small
-  business.
-
-- ***Unindentured electrician apprentice IBEW (2014-2016)*** I helped put industrial-grade solar farm equipment together, do forensics, megger testing,
-  connecting wires together, wire crimping, setting up microcontrollers on solar arrays, placing solar panels down on the arrays, testing solar
-  diagnose, troubleshoot, and solve issues with the solar system and the power station.
+- ***Personal Computer Consultant (2014-2019)*** I help people with their computer issues, diagnose, troubleshoot, repair issues, and upgrade 
+  computer components. I make sure my customers are satisfied, documented their system issues and resolved conflicts, and did bookkeeping of my
+  small business.
 
 - ***General construction, electrician apprentice, and data communication wiring (2017)*** I did drywall cutting and patching. Painted the interiors.
   demo the floors and bathroom, and put up a cement board in the bathroom. Cut out holes in the ceiling to install vents in the house. Ran electrical
   wires in the walls and outlets put up light fixtures, ran cat6 cables underneath the house, and coaxial cable.
+
+- ***Unindentured electrician apprentice IBEW (2014-2016)*** I helped put industrial-grade solar farm equipment together, do forensics, megger 
+  testing, connecting wires together, wire crimping, setting up microcontrollers on solar arrays, placing solar panels down on the arrays, testing 
+  solar diagnose, troubleshoot, and solve issues with the solar system and the power station.
 
 ---
 
