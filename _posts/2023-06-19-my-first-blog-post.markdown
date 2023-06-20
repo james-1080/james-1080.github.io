@@ -4,7 +4,7 @@ title: "My first blog post"
 date: 2023-06-19 20:03:30 -0700
 categories: general update
 ---
-Hello everyone! I am a big-time computer geek who loves learning new things with computers. Here is what is about me... I envy learning and it is one of my biggest passions in life. I am in my 30's pursuing one main major you've guessed it: Computer Science.
+Hello everyone! I am a big-time computer geek who loves learning new things with computers. Here is what is about me... I love learning and it is one of my biggest passions in life. I am in my 30's pursuing one main major you've guessed it: Computer Science.
 
 Although I have a couple of other degrees, Language & Rationalities (LR) and Computer Electronics (CE). I'll share my background history on computers. I was intrigued by computers by the time I was 5 and this was in 1995 (yes, I'm born in 1990).
 
