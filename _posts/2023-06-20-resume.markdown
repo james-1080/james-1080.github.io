@@ -45,3 +45,11 @@ categories: resume
 - Languages I've used... Python, C#, Java, Visual Basic, & Assembly-MIPS.
 
 ---
+
+### Portfolio
+
+---
+
+- Github account: james-1080 Repo: Menu Scout Web & Menu Scout Site Generator. I worked on the project with a team and worked as a project manager.
+  Made sure the project gets done by deadlines and manage the team and make the project work. I helped designed the project while working with
+  co-workers.
