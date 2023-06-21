@@ -31,6 +31,7 @@ url: "https://jamespc.tech/" # the base hostname & protocol for your site, e.g. 
 twitter_username: 
 github_username: james-1080
 instagram_username: duo_mundi
+linkedin_username: jamespctech
 
 # Build settings
 theme: minima
