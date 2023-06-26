@@ -5,9 +5,9 @@ date: 2023-06-25 19:00:00 -0700
 categories: general update
 ---
 
-#Implant Journey
+# Implant Journey
 ---
-###Let's rewind the tape
+### Let's rewind the tape
 ---
 I was born deaf and I have five active deaf genes with two hearing parents. When I was around 2-3 this was when my parents found out I was deaf. There wasn't a law that checked babies if they were deaf or not. Anyway, I wore hearing aids at the start and was denied cochlear implants even though I was profoundly deaf.
 I struggled with hearing aids almost my whole life until I got cochlear implants. My language was poor, language deprived, and I had language delays it was due to the fact I had holes in my hearing. I still managed to communicate with people when I could understand them but half of it was me filling in the communication
