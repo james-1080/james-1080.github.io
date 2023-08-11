@@ -21,8 +21,8 @@
 title: James Nelson's Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Deaf programmer's blog that is an LR, CS, & CE
-  Major. I enjoy camping, cooking, reading, cats,
+  Deaf programmer's blog that is a quadruple major.
+  I enjoy camping, cooking, reading, cats,
   & more. I want to reinvent technology for
   disabled people, and help people like you.
   
@@ -32,6 +32,8 @@ twitter_username:
 github_username: james-1080
 instagram_username: duo_mundi
 linkedin_username: jamespctech
+facebook_username: cookiebiter
+
 
 # Build settings
 theme: minima
