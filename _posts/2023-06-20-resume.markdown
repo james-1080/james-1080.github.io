@@ -42,7 +42,7 @@ categories: resume
 
 - MJC 2019-current AS degree in Language & Rationalities (Spring 2023), AS in Communications Studies (Fall 2024), Computer Science (2025), & Computer Electronics (2025).
 - Certified PC Pro, Computer Network Technician, and Unix/Unix-like OS Administration.
-- Languages I've used... Python, C#, Visual Basic, & Assembly-MIPS.
+- Languages I've used... Python, C#, Visual Basic, Javascript, Bash, Assembly-MIPS.
 
 ---
 
