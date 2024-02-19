@@ -42,7 +42,7 @@ categories: resume
 
 - MJC 2019-current AS degree in Language & Rationalities, Communications Studies, Computer Science, & Computer Electronics.
 - Certified PC Pro, Computer Network Technician, Unix/Unix-like OS Administration, and Computer Programming Specialist.
-- Languages I've used... Python, C#, Java, Visual Basic, & Assembly-MIPS.
+- Languages I've used... Python, C#, Visual Basic, & Assembly-MIPS.
 
 ---
 
