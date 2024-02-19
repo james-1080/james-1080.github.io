@@ -13,8 +13,8 @@ categories: resume
 
 ---
 
-- A computer science major who is pursuing software engineering. In my 30's, I like playing with computers and am a quick learner.
-  Enjoys working as a team worker. Have good diagnosing, troubleshooting skills, & solving issues. In search of software engineering positions.
+- A computer science major who is pursuing software engineering. In my 30s, I like playing with computers and am a quick learner.
+  I enjoy working as a team worker. Have good diagnosing and troubleshooting skills, & solve issues. I am searching for software engineering positions.
 
 ---
 
@@ -22,16 +22,16 @@ categories: resume
 
 ---
 
-- ***Personal Computer Consultant (2014-2019)*** I help people with their computer issues, diagnose, troubleshoot, repair issues, and upgrade 
-  computer components. I make sure my customers are satisfied, documented their system issues and resolved conflicts, and did bookkeeping of my
+- ***Personal Computer Consultant (2014-2019)*** I help people with computer issues, diagnose, troubleshoot, repair, and upgrade 
+  computer components. I ensured my customers were satisfied, documented their system issues, resolved conflicts, and did bookkeeping of my
   small business.
 
 - ***General construction, electrician apprentice, and data communication wiring (2017)*** I did drywall cutting and patching. Painted the interiors.
-  demo the floors and bathroom, and put up a cement board in the bathroom. Cut out holes in the ceiling to install vents in the house. Ran electrical
-  wires in the walls and outlets put up light fixtures, ran cat6 cables underneath the house, and coaxial cable.
+  Demo the floors and bathroom, and put up a cement board in the bathroom. Cut out holes in the ceiling to install vents in the house. Ran electrical
+  wires in the walls and outlets put up light fixtures ran CAT6 cables underneath the house and coaxial cable.
 
 - ***Unindentured electrician apprentice IBEW (2014-2016)*** I helped put industrial-grade solar farm equipment together, do forensics, megger 
-  testing, connecting wires together, wire crimping, setting up microcontrollers on solar arrays, placing solar panels down on the arrays, testing 
+  testing, connecting wires, wire crimping, setting up microcontrollers on solar arrays, placing solar panels down on the arrays, testing 
   solar diagnose, troubleshoot, and solve issues with the solar system and the power station.
 
 ---
@@ -41,7 +41,7 @@ categories: resume
 ---
 
 - MJC 2019-current AS degree in Language & Rationalities, Communications Studies, Computer Science, & Computer Electronics.
-- Certified PC Pro, Certified Computer Network Technician, Certified Unix/Unix-like OS Administration, Certified Computer Programming Specialist.
+- Certified PC Pro, Computer Network Technician, Unix/Unix-like OS Administration, and Computer Programming Specialist.
 - Languages I've used... Python, C#, Java, Visual Basic, & Assembly-MIPS.
 
 ---
@@ -50,6 +50,6 @@ categories: resume
 
 ---
 
-- Github account: **james-1080** Repo: **Menu Scout Web & Menu Scout Site Generator**. I worked on the project with a team and worked as a project manager.
-  Made sure the project gets done by deadlines and manage the team and make the project work. I helped designed the project while working with
+- Github account: **james-1080** Repo: **Menu Scout Web & Menu Scout Site Generator**. I worked on the project with a team and as a project manager.
+  Made sure the project got done by deadlines, managed the team, and made the project work. I helped design the project while working with
   co-workers.
